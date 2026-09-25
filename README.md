@@ -1,3 +1,3 @@
 # arshad
 my first time
-auther - Arshad
+author - Arshad
